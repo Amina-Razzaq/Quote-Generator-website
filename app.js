@@ -34,6 +34,6 @@ function tweetQuote() {
 newQuoteButton.addEventListener('click', getQuote);
 tweetButton.addEventListener('click', tweetQuote);
 
-// On initial load, fetch a quote
+
 getQuote();
 
